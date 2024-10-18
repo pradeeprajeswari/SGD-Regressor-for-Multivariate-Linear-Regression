@@ -55,7 +55,6 @@ print("\nPredictions:\n",Y_pred[:5])
 ```
 
 ## Output:
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
 ![Screenshot 2024-09-01 172631](https://github.com/user-attachments/assets/66a0ef8d-ec49-43fb-b92d-3f461628d268)
 
 
